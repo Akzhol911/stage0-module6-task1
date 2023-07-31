@@ -17,5 +17,6 @@ public class Animal {
         return
         ("This animal is mostly " + this.color+". " + "It has " + this.numberOfPaws + (this.numberOfPaws==1?" paw":" paws") +  " and " +
                 (hasFur?"a":"no") + " fur.");
+
     }
 }

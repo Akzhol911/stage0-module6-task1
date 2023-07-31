@@ -15,4 +15,5 @@ public class Bird extends Animal {
                 (hasFur?"a":"no") + " fur. Moreover, it has 2 wings and can fly.");
     }
     Bird bird=new Bird("blue",2,false);
+
 }
