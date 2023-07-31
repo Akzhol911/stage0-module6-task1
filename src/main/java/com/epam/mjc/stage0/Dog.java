@@ -10,4 +10,6 @@ public class Dog extends Animal {
     public String getDescription() {
         return super.getDescription();
     }
+    Dog dog=new Dog("brown",4,true);
 }
+
