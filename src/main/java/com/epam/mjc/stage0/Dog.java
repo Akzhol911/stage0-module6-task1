@@ -11,6 +11,5 @@ public class Dog extends Animal {
         return super.getDescription();
     }
     Dog dog=new Dog("brown",4,true);
-
 }
 
